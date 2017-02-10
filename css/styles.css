@@ -30,3 +30,12 @@ p {
 body {
 background-image: url(/Users/Guest/desktop/portfolio/background.jpg);
 }
+
+blockquote {
+  color: gray;
+  background-color: black;
+  border-top-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+  border-top-right-radius: 30px;
+  border-bottom-left-radius: 30px;
+}
