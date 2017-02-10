@@ -25,6 +25,7 @@ p {
   font-weight: 200;
   font-size: 20px;
   text-align: justify;
+  color: white;
 }
 
 body {
@@ -46,4 +47,16 @@ blockquote {
   height: 150px;
   margin-left: 10px;
   margin-bottom: 10px:
+}
+
+.container {
+  background-color: gray;
+}
+
+.well {
+  background-color: darkgray;
+}
+
+span {
+  font-size: 30px;
 }
