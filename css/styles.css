@@ -1,0 +1,15 @@
+h1, h2 {
+  font-family: fantasy;
+  font-weight: bolder;
+}
+
+h2 {
+  text-decoration: underline;
+  text-align: center;
+  margin: 0px;
+
+}
+
+#contacts {
+  margin-left: 55px;
+}
