@@ -12,6 +12,7 @@ h2 {
 
 #contacts {
   margin-left: 55px;
+  font-weight: bold;
 }
 
 .me {
@@ -25,7 +26,7 @@ p {
   font-weight: 200;
   font-size: 20px;
   text-align: justify;
-  color: white;
+  color: black;
 }
 
 body {
@@ -50,13 +51,25 @@ blockquote {
 }
 
 .container {
-  background-color: gray;
+  background-color: black;
 }
 
 .well {
-  background-color: darkgray;
+  background-image: url(/users/guest/desktop/portfolio/img/textbackground.jpg);
 }
 
 span {
   font-size: 30px;
+}
+
+ol {
+  font-size: 25px;
+}
+
+a {
+  color: darkgreen;
+}
+
+.project {
+  text-align: left;
 }
