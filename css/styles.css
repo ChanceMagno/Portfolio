@@ -39,3 +39,11 @@ blockquote {
   border-top-right-radius: 30px;
   border-bottom-left-radius: 30px;
 }
+
+.car {
+  float: right;
+  image-resolution: snap;
+  height: 150px;
+  margin-left: 10px;
+  margin-bottom: 10px:
+}
