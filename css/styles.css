@@ -19,3 +19,10 @@ h2 {
   margin-right: 10px;
   margin-bottom: 10px:
 }
+
+p {
+  text-rendering: optimizeLegibility;
+  font-weight: 200;
+  font-size: 20px;
+  text-align: justify;
+}
