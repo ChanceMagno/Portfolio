@@ -14,7 +14,7 @@ This html is for viewing my profile, checking out projects and learning more abo
 
 _{This program is hosted off git-hub, internet access required}_
 
-## scaling needs polished for smaller screens
+## scaling needs polished for smaller screens, gh-pages link will not load background.jpg or textbackground.jpg
 
 ## Support and contact details
 
