@@ -30,7 +30,7 @@ p {
 }
 
 body {
-background-image: url(Portfolio/background.jpg);
+background-image: image(Portfolio/background.jpg);
 }
 
 blockquote {
