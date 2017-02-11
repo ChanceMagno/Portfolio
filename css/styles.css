@@ -30,7 +30,7 @@ p {
 }
 
 body {
-background-image: url(portfolio/background.jpg);
+background-image: url(Portfolio/background.jpg);
 }
 
 blockquote {
@@ -55,7 +55,7 @@ blockquote {
 }
 
 .well {
-  background-image: url(img/textbackground.jpg);
+  background-image: url(/users/guest/desktop/portfolio/img/textbackground.jpg);
 }
 
 span {
